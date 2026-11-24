@@ -1,0 +1,9 @@
+# One question per line. Lines starting with # are ignored.
+# Lines starting with ! are TRAP questions: the brochure does not answer them.
+Quelles filières propose l'EMSI ?
+Dans quelles villes se trouvent les campus de l'EMSI ?
+Qui est le directeur général de l'EMSI ?
+Quels partenariats internationaux l'EMSI a-t-elle, et quels diplômes propose-t-elle ?
+! Combien coûte la cafétéria de l'EMSI ?
+! Quel est le numéro de téléphone du directeur ?
+! Quelle est la capitale de l'Australie ?

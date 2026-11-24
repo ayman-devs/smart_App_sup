@@ -1,0 +1,28 @@
+# --- API ---
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+httpx
+
+# --- Vector database + search ---
+qdrant-client
+rank-bm25
+tiktoken
+
+# --- PDF + images ---
+pymupdf
+pillow
+
+# --- Embeddings / reranking (torch is installed separately, CPU build) ---
+sentence-transformers
+
+# --- Agent ---
+langchain-core
+langchain-ollama
+langgraph
+mcp
+langchain-mcp-adapters
+
+# --- Tests ---
+pytest

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.env
+data/images/
+data/uploads/
+eval/results.csv
+.pytest_cache/
